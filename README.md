@@ -2,9 +2,9 @@
 Cumsoft 2023 Official Development Kit *KEY*
 
 
-* [] ()<!--- //  // --->
-* [] ()<!--- //  // --->
-* [] ()<!--- //  // --->
+* [x86SimpBoot.asm] ()<!--- // Assembly BootSector Loop2self 107 byte // --->
+* [x86SimpBoot.bin] ()<!--- // Binary BootSector Loop2self 1 kbyte // --->
+* [x86SimpBoot2.bin] ()<!--- // Binary BootSector Loop2self 4 kbyte // --->
 * [] ()<!--- //  // --->
 * [] ()<!--- //  // --->
 * [] ()<!--- //  // --->
